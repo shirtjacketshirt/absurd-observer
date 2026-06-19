@@ -21,7 +21,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "The Absurd Observer",
-  description: "Your trusted source for news that definitely didn't happen.",
+  description: "Your trusted source for alternative news that definitely will happen.",
 };
 
 export default function RootLayout({
